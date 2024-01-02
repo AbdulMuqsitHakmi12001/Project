@@ -1,0 +1,4 @@
+admin:write,read
+useradmin:editusername
+roleadmin:removerole,addrole
+boss:all
